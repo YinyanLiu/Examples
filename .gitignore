@@ -1,0 +1,5 @@
+*.idea
+.idea/
+__pycache__/
+*.tar
+*.DS_Store
